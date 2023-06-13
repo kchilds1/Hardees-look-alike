@@ -17,3 +17,4 @@
 - I made one of the menu items in index.html and made it look perfect before removing it and using it as a template in JavaScript returning a string containing the HTML markup for each item found in the array variable shopItemsData
 - I put the menu items in a grid with because I felt like it looked better than flex box when I use media queries to adjust the grid-template-columns at max-width: 1188px and max-width: 606px.
 - I copied how the double footer looks on the site, but I'm not sure if it's best to use a flexbox or use a media query to for when I'm looking at the page from my cell phone.
+- I decided to center the contents within the footer in a flexbox and use flex-wrap: wrap until I figure out how the header in https://www.hardees.com/full-menu at max-width 767px is made.  
